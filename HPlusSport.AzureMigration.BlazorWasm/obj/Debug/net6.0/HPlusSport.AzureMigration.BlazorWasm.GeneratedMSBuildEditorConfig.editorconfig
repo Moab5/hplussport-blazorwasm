@@ -1,0 +1,49 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = HPlusSport.AzureMigration.BlazorWasm
+build_property.RootNamespace = HPlusSport.AzureMigration.BlazorWasm
+build_property.ProjectDir = /Users/moaba/RiderProjects/1_InitialApplication/HPlusSport.AzureMigration.BlazorWasm/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/moaba/RiderProjects/1_InitialApplication/HPlusSport.AzureMigration.BlazorWasm
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/moaba/RiderProjects/1_InitialApplication/HPlusSport.AzureMigration.BlazorWasm/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/moaba/RiderProjects/1_InitialApplication/HPlusSport.AzureMigration.BlazorWasm/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/moaba/RiderProjects/1_InitialApplication/HPlusSport.AzureMigration.BlazorWasm/Pages/Product.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZHVjdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/moaba/RiderProjects/1_InitialApplication/HPlusSport.AzureMigration.BlazorWasm/Pages/Products.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZHVjdHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/moaba/RiderProjects/1_InitialApplication/HPlusSport.AzureMigration.BlazorWasm/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/moaba/RiderProjects/1_InitialApplication/HPlusSport.AzureMigration.BlazorWasm/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/moaba/RiderProjects/1_InitialApplication/HPlusSport.AzureMigration.BlazorWasm/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-0e6lyxah8q
+
+[/Users/moaba/RiderProjects/1_InitialApplication/HPlusSport.AzureMigration.BlazorWasm/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-asxd2t9tnl
